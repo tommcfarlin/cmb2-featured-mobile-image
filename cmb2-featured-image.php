@@ -10,7 +10,7 @@
  * Plugin Name:        CMB2: Featured Mobile Image
  * Plugin URI:         https://www.github.com/tommcfarin/cmb2-featured-mobile-image
  * Description:        Select an image to display as your featured image in the mobile version of your site.
- * Version:            0.1.0
+ * Version:            0.2.0
  * Author:             Tom McFarlin
  * Author URI:         https://tommcfarlin.com/
  * Text Domain:        cmb2-featured-mobile-image
