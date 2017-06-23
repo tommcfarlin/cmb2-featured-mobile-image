@@ -1,0 +1,26 @@
+.cmb2-id-cmb2-featured-mobile-image {
+    padding: 0 !important;
+}
+
+.cmb2-upload-button.button {
+    font-family:        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    background-color:   transparent;
+    text-decoration:    underline;
+    border:             none;
+    color:              #0073aa;
+    cursor:             pointer;
+    border-radius:      0;
+    box-shadow:         none;
+    -moz-box-shadow:    none;
+    -webkit-box-shadow: none;
+    padding:            0;
+}
+
+.cmb2-upload-button.button:focus {
+    background:         transparent;
+    outline:            none;
+    color:              #00a0d2;
+    box-shadow:         none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow:    none;
+}
